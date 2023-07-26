@@ -36,3 +36,6 @@ next-env.d.ts
 /public/worker-*.js.map
 /public/fallback-*.js
 /public/fallback-*.js.map
+
+# data from mongo
+/from-mongo
